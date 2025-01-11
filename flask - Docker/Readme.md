@@ -22,7 +22,7 @@ There is already a simple Python Flask application and a Dockerfile created with
 2. Run the Docker container:
 
     ```sh
-    docker run -d -p 5000:5000 flask-app
+    docker run -d -p 3000:3000 flask-app
     ```
 
 ### To Stop the Application
